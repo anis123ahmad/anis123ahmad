@@ -8,6 +8,8 @@ Recently I developed a Custom Woocommerce Payment plugin for Woocommerce with 3D
 
 This FAC Payment Gateway works in Caribbean countries.
 
+This woocommerce plugin uses latest FAC PowerTranz REST API for 3DS2 authentication. It uses Direct Method on WooCommerce Checkout page.
+
 You can request a demo on here:
 
 https://siyanaweb.com
