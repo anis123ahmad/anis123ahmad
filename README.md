@@ -6,6 +6,8 @@ I am a PHP and custom woocommerce payment plugin developer. I also have a good h
 
 Recently I developed a Custom Woocommerce Payment plugin for Woocommerce with 3DS2 authentication for First Atlantic Commerce (FAC) Payment Plugin 3DS2.
 
+This FAC Payment Gateway works in Caribbean countries.
+
 You can request a demo on here:
 
 https://siyanaweb.com
