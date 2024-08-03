@@ -18,6 +18,7 @@ Some WooCommerce Payment Plugins Developed by Me:
 - WooCommerce Subscription Payment Plugin using SEPA (VR Payment API works in Germany) Direct Debit using IBAN
 - WooCommerce Subscription (Instalment) Payment Plugin using SEPA (GoCardless API) Direct Debit using IBAN
 - WorldPay WooCommerce Payment Plugin using Hosted Payment Page (HPP) method
+- Elavon Converge using XML API Direct Payment method ( Customer will pay on your store's checkout page, no need to redirect )
 
   https://impex4u.com
 
